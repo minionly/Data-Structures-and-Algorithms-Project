@@ -34,7 +34,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
     - [Minimum number of operation to convert string X to Y](https://github.com/minionly/Codes/blob/main/Minimum%20number%20of%20operation%20to%20convert%20string%20X%20to%20Y) - O(n*n)
     - [LCS](https://github.com/minionly/Codes/blob/main/LCS) - O(n*m)
   - Linear Arrays 📊
-    - [LIS (Easy Version)](https://github.com/minionly/Codes/blob/main/LIS%20-%201) - O(n^2)
+    - [LIS (Easy Version)](https://github.com/minionly/Codes/blob/main/LIS%20-%201) - O(n*n)
     - [LIS (Hard Version)](https://github.com/minionly/Codes/blob/main/LIS%20-%202) - O(nlogn)
     - [Wavio Sequence](https://github.com/minionly/Codes/blob/main/Wavio%20Sequence) - O(2*nlogn)
   - 2D arrays 🧮
