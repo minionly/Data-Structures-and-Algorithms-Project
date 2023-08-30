@@ -26,7 +26,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Range MEX Query](https://github.com/minionly/Segment-Tree/blob/main/Range%20MEX%20Query)
   - [Basic Segment Tree Source Code With Explaination](https://github.com/minionly/Segment-Tree/blob/main/Segment%20Tree%20-%20Basics)
 - [Graph Theory](https://github.com/minionly/Graph-Theory) 📈
-  - [Dijkstra Lazy Implementation](https://github.com/minionly/Graph-Theory/blob/main/Dijkstra%20Lazy%20Implementation) - O(Elog(V))
+  - [Dijkstra Lazy Implementation](https://github.com/minionly/Codes/blob/main/Dijkstra%20Lazy%20Implementation) - O(Elog(V))
 # Dynamic Programming
   - [Number of ways to make a string palindromic](https://github.com/minionly/Codes/blob/main/Number%20of%20ways%20to%20make%20a%20string%20palindromic.)</br>
   - [Minumun deletion (insertion) to make a palindromic string](https://github.com/minionly/Codes/blob/main/Minumun%20deletion%20(insertion)%20to%20make%20a%20palindromic%20string%20(File))
