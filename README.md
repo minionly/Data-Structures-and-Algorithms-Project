@@ -2,4 +2,10 @@
 - [Segment Trees](https://github.com/minionly/Segment-Tree)</br>
   - [A - Addition and Minimum](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Addition%20and%20Minimum)</br>
   - [A - Assignment and Maximal Segment](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Assignment%20and%20Maximal%20Segment)</br>
-  
+  - [A - Inversions](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Inversions)
+  - [A - Segment Tree for the Sum](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Segment%20Tree%20for%20the%20Sum)
+  - [A - Sign alternation](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Sign%20alternation)
+  - [B - Inverse and K-th one](https://github.com/minionly/Segment-Tree/blob/main/B%20-%20Inverse%20and%20K-th%20one)
+  - [B - Inversions 2](https://github.com/minionly/Segment-Tree/blob/main/B%20-%20Inversions%202)
+  - [B - K-th one](https://github.com/minionly/Segment-Tree/blob/main/B%20-%20K-th%20one)
+  - [B - Multiplication and Sum](https://github.com/minionly/Segment-Tree/blob/main/B%20-%20Multiplication%20and%20Sum)
