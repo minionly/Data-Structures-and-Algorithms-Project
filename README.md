@@ -23,3 +23,4 @@
   - [F - Assignment and Sum](https://github.com/minionly/Segment-Tree/blob/main/F%20-%20Assignment%20and%20Sum)
   - [Range MEX Query](https://github.com/minionly/Segment-Tree/blob/main/Range%20MEX%20Query)
   - [Basic Segment Tree Source Code With Explaination](https://github.com/minionly/Segment-Tree/blob/main/Segment%20Tree%20-%20Basics)
+#Dynamic Programming
