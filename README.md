@@ -23,5 +23,6 @@
   - [F - Assignment and Sum](https://github.com/minionly/Segment-Tree/blob/main/F%20-%20Assignment%20and%20Sum)
   - [Range MEX Query](https://github.com/minionly/Segment-Tree/blob/main/Range%20MEX%20Query)
   - [Basic Segment Tree Source Code With Explaination](https://github.com/minionly/Segment-Tree/blob/main/Segment%20Tree%20-%20Basics)
-
-#Dynamic Programming
+# Dynamic Programming
+  - [Number of ways to make a string palindromic](https://github.com/minionly/Dynamic-Progamming-/blob/main/Number%20of%20ways%20to%20make%20a%20string%20palindromic.)</br>
+  - [Minumun deletion (insertion) to make a palindromic string](https://github.com/minionly/Dynamic-Progamming-/blob/main/Minumun%20deletion%20(insertion)%20to%20make%20a%20palindromic%20string)
