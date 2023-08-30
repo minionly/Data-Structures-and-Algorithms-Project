@@ -28,8 +28,12 @@ Algorithms and data structures are fundamental to efficient code and good softwa
 - [Graph Theory](https://github.com/minionly/Graph-Theory) 📈
   - [Dijkstra Lazy Implementation](https://github.com/minionly/Codes/blob/main/Dijkstra%20Lazy%20Implementation) - O(Elog(V))
 # Dynamic Programming
-  - [Number of ways to make a string palindromic](https://github.com/minionly/Codes/blob/main/Number%20of%20ways%20to%20make%20a%20string%20palindromic.)</br>
-  - [Minumun deletion (insertion) to make a palindromic string](https://github.com/minionly/Codes/blob/main/Minumun%20deletion%20(insertion)%20to%20make%20a%20palindromic%20string%20(File))
-  - [Minimum number of operation to convert string X to Y](https://github.com/minionly/Codes/blob/main/Minimum%20number%20of%20operation%20to%20convert%20string%20X%20to%20Y)
-  - [LIS (Easy Version)](https://github.com/minionly/Codes/blob/main/LIS%20-%201) - O(n^2)
-  - [LIS (Hard Version)](https://github.com/minionly/Codes/blob/main/LIS%20-%202) - O(nlogn)
+  - Strings 🔤
+    - [Number of ways to make a string palindromic](https://github.com/minionly/Codes/blob/main/Number%20of%20ways%20to%20make%20a%20string%20palindromic.) - O(n*(n+1)/2)
+    - [Minumun deletion (insertion) to make a palindromic string](https://github.com/minionly/Codes/blob/main/Minumun%20deletion%20(insertion)%20to%20make%20a%20palindromic%20string%20(File)) - O(n*(n+1)/2)
+    - [Minimum number of operation to convert string X to Y] (https://github.com/minionly/Codes/blob/main/Minimum%20number%20of%20operation%20to%20convert%20string%20X%20to%20Y) - O(n*n)
+    - [LCS](https://github.com/minionly/Codes/blob/main/LCS) - O(n*m)
+  - Linear Arrays 📊
+    - [LIS (Easy Version)](https://github.com/minionly/Codes/blob/main/LIS%20-%201) - O(n^2)
+    - [LIS (Hard Version)](https://github.com/minionly/Codes/blob/main/LIS%20-%202) - O(nlogn)
+    - 
