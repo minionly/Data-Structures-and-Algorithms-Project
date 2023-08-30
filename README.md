@@ -1,3 +1,5 @@
+# Algorithms & data structures project
+Algorithms and data structures are fundamental to efficient code and good software design. Creating and designing excellent algorithms is required for being an exemplary programmer. This repository's goal is to demonstrate how to correctly implement common data structures and algorithms in the simplest and most elegant ways.
 # Data-Structures
 - [Segment Trees](https://github.com/minionly/Segment-Tree) 🌲
   - [A - Addition and Minimum](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Addition%20and%20Minimum)
