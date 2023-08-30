@@ -37,8 +37,10 @@ Algorithms and data structures are fundamental to efficient code and good softwa
     - [LIS (Easy Version)](https://github.com/minionly/Codes/blob/main/LIS%20-%201) - O(n*n)
     - [LIS (Hard Version)](https://github.com/minionly/Codes/blob/main/LIS%20-%202) - O(nlogn)
     - [Wavio Sequence](https://github.com/minionly/Codes/blob/main/Wavio%20Sequence) - O(2*nlogn)
+    - [Coins Change I](https://github.com/minionly/Codes/blob/main/Coin%20Change%201)
   - 2D arrays 🧮
     - [Unbounded Knapsack - 2D array](https://github.com/minionly/Codes/blob/main/Unbounded%20Knapsack%20-%202D%20array) - O(n*m)
     - [Bounded Knapsack - 2D array](https://github.com/minionly/Codes/blob/main/Bounded%20Knapsack%20-%201D%20array) - O(n*m)
     - [Bounded Knapsack 1D array](https://github.com/minionly/Codes/blob/main/Bounded%20Knapsack%20-%201D%20array)- O(n*m)
     - [Extended Knapsack](https://github.com/minionly/Codes/blob/main/Extended%20Knapsack%20-%201D%20array) - O(n*m)
+    - [Coins Change II](https://github.com/minionly/Codes/blob/main/Coin%20Change%202)
