@@ -30,3 +30,4 @@ Algorithms and data structures are fundamental to efficient code and good softwa
 # Dynamic Programming
   - [Number of ways to make a string palindromic](https://github.com/minionly/Dynamic-Progamming-/blob/main/Number%20of%20ways%20to%20make%20a%20string%20palindromic.)</br>
   - [Minumun deletion (insertion) to make a palindromic string](https://github.com/minionly/Dynamic-Progamming-/blob/main/Minumun%20deletion%20(insertion)%20to%20make%20a%20palindromic%20string)
+  - [Minimum number of operation to convert string X to Y](https://github.com/minionly/Dynamic-Progamming-/tree/main)
