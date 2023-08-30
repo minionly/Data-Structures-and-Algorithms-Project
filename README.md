@@ -44,3 +44,6 @@ Algorithms and data structures are fundamental to efficient code and good softwa
     - [Bounded Knapsack 1D array](https://github.com/minionly/Codes/blob/main/Bounded%20Knapsack%20-%201D%20array)- O(n*m)
     - [Extended Knapsack](https://github.com/minionly/Codes/blob/main/Extended%20Knapsack%20-%201D%20array) - O(n*m)
     - [Coins Change II](https://github.com/minionly/Codes/blob/main/Coin%20Change%202)
+# Other Projects
+- Unity Game Development 🎮
+- 
