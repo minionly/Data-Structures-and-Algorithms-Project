@@ -1,7 +1,7 @@
 # Data-Structures
-- [Segment Trees](https://github.com/minionly/Segment-Tree)</br>
-  - [A - Addition and Minimum](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Addition%20and%20Minimum)</br>
-  - [A - Assignment and Maximal Segment](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Assignment%20and%20Maximal%20Segment)</br>
+- [Segment Trees](https://github.com/minionly/Segment-Tree) 🌲
+  - [A - Addition and Minimum](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Addition%20and%20Minimum)
+  - [A - Assignment and Maximal Segment](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Assignment%20and%20Maximal%20Segment)
   - [A - Inversions](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Inversions)
   - [A - Segment Tree for the Sum](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Segment%20Tree%20for%20the%20Sum)
   - [A - Sign alternation](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Sign%20alternation)
@@ -23,7 +23,7 @@
   - [F - Assignment and Sum](https://github.com/minionly/Segment-Tree/blob/main/F%20-%20Assignment%20and%20Sum)
   - [Range MEX Query](https://github.com/minionly/Segment-Tree/blob/main/Range%20MEX%20Query)
   - [Basic Segment Tree Source Code With Explaination](https://github.com/minionly/Segment-Tree/blob/main/Segment%20Tree%20-%20Basics)
-- [Graph Theory](https://github.com/minionly/Graph-Theory)
+- [Graph Theory](https://github.com/minionly/Graph-Theory) 📈
   - [Dijkstra Lazy Implementation](https://github.com/minionly/Graph-Theory/blob/main/Dijkstra%20Lazy%20Implementation) - O(Elog(V))
 # Dynamic Programming
   - [Number of ways to make a string palindromic](https://github.com/minionly/Dynamic-Progamming-/blob/main/Number%20of%20ways%20to%20make%20a%20string%20palindromic.)</br>
