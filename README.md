@@ -3,6 +3,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
 # Data Structures
 - Segment Trees 🌲
   - [A - Addition and Minimum](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Addition%20and%20Minimum)
+  - [A - Segment with the Maximum Sum](https://github.com/minionly/Codes/blob/main/A%20-%20Segment%20with%20the%20Maximum%20Sum)
   - [A - Assignment and Maximal Segment](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Assignment%20and%20Maximal%20Segment)
   - [A - Inversions](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Inversions)
   - [A - Segment Tree for the Sum](https://github.com/minionly/Segment-Tree/blob/main/A%20-%20Segment%20Tree%20for%20the%20Sum)
