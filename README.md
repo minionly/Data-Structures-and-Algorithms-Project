@@ -46,5 +46,5 @@ Algorithms and data structures are fundamental to efficient code and good softwa
     - [Coins Change II](https://github.com/minionly/Codes/blob/main/Coin%20Change%202)
 # Other Projects
 - Unity Game Development 🎮
-  - [Type Master](https://tnknguyen.itch.io/type-master)
-  - [Flappy Bird](https://tnknguyen.itch.io/flappy-birdy)
+  - [Type Master](https://tnknguyen.itch.io/type-master) - ⌨️
+  - [Flappy Bird](https://tnknguyen.itch.io/flappy-birdy) - 🐦
