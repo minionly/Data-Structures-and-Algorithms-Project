@@ -47,3 +47,4 @@ Algorithms and data structures are fundamental to efficient code and good softwa
 # Other Projects
 - Unity Game Development 🎮
   - [Type Master](https://tnknguyen.itch.io/type-master)
+  - [Flappy Bird](https://tnknguyen.itch.io/flappy-birdy)
