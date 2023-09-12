@@ -28,6 +28,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Basic Segment Tree Source Code With Explaination](https://github.com/minionly/Segment-Tree/blob/main/Segment%20Tree%20-%20Basics)
 - Graph Theory 📈
   - [Dijkstra Lazy Implementation](https://github.com/minionly/Codes/blob/main/Dijkstra%20Lazy%20Implementation) - O(Elog(V))
+  - [Tarjan Strongly Connected Components](https://github.com/minionly/Codes/blob/main/Tarjan%20Strongly%20Connected%20Components) - O(E+V)
 - Dijoint Sets Union 🔃
   - [A - Disjoint Sets Union](https://github.com/minionly/Codes/blob/main/A%20-%20Disjoint%20Sets%20Union)
   - [B - Disjoint Sets Union 2](https://github.com/minionly/Codes/blob/main/B%20-%20Disjoint%20Sets%20Union%202)
