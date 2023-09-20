@@ -34,7 +34,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [B - Disjoint Sets Union 2](https://github.com/minionly/Codes/blob/main/B%20-%20Disjoint%20Sets%20Union%202)
 # Dynamic Programming
   - Strings 🔤
-    - [Number of ways to make a string palindromic](https://github.com/minionly/Codes/blob/main/Number%20of%20ways%20to%20make%20a%20string%20palindromic.) - O(n*(n+1)/2)
+    - [Number of ways to make a string palindromic](https://github.com/minionly/Codes/blob/main/Number%20of%20ways%20to%20make%20a%20palindromic.%20string) - O(n*(n+1)/2)
     - [Minumun deletion (insertion) to make a palindromic string](https://github.com/minionly/Codes/blob/main/Minumun%20deletion%20(insertion)%20to%20make%20a%20palindromic%20string%20(File)) - O(n*(n+1)/2)
     - [Minimum number of operation to convert string X to Y](https://github.com/minionly/Codes/blob/main/Minimum%20number%20of%20operation%20to%20convert%20string%20X%20to%20Y) - O(n*n)
     - [LCS](https://github.com/minionly/Codes/blob/main/LCS) - O(n*m)
