@@ -29,6 +29,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
 - Graph Theory 📈
   - [Dijkstra Lazy Implementation](https://github.com/minionly/Codes/blob/main/Dijkstra%20Lazy%20Implementation) - O(Elog(V))
   - [Tarjan Strongly Connected Components](https://github.com/minionly/Codes/blob/main/Tarjan%20Strongly%20Connected%20Components) - O(E+V)
+  - [Check If a Given Graph Is Cyclic](https://github.com/minionly/Codes/blob/main/Check%20if%20Graph%20is%20Cyclic) - O(E)
 - Dijoint Sets Union 🔃
   - [A - Disjoint Sets Union](https://github.com/minionly/Codes/blob/main/A%20-%20Disjoint%20Sets%20Union)
   - [B - Disjoint Sets Union 2](https://github.com/minionly/Codes/blob/main/B%20-%20Disjoint%20Sets%20Union%202)
