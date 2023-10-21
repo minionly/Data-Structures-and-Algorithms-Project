@@ -31,7 +31,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Tarjan Strongly Connected Components](https://github.com/minionly/Codes/blob/main/Tarjan%20Strongly%20Connected%20Components) - O(E+V)
   - [Check If a Given Graph Is Cyclic](https://github.com/minionly/Codes/blob/main/Check%20if%20Graph%20is%20Cyclic) - O(E)
   - [Bellman Ford Single Source Shortest Path](https://github.com/minionly/Codes/blob/main/Bellman%20Ford%20-%20O(V*E)) - O(EV)
-  - [Floyd Warshall All Pair Shortest Path](https://github.com/minionly/Codes/blob/main/Floyd%20Warshall%20-%20O(E%5E3)) - O(E^3)
+  - [Floyd Warshall All Pair Shortest Path](https://github.com/minionly/Codes/blob/main/Floyd%20Warshall%20-%20O(E%5E3)) - O(E<sup>3</sup>)
 - Dijoint Sets Union 🔃
   - [A - Disjoint Sets Union](https://github.com/minionly/Codes/blob/main/A%20-%20Disjoint%20Sets%20Union)
   - [B - Disjoint Sets Union 2](https://github.com/minionly/Codes/blob/main/B%20-%20Disjoint%20Sets%20Union%202)
