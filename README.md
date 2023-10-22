@@ -32,6 +32,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Check If a Given Graph Is Cyclic](https://github.com/minionly/Codes/blob/main/Check%20if%20Graph%20is%20Cyclic) - O(E)
   - [Bellman Ford Single Source Shortest Path](https://github.com/minionly/Codes/blob/main/Bellman%20Ford%20-%20O(V*E)) - O(EV)
   - [Floyd Warshall All Pair Shortest Path](https://github.com/minionly/Codes/blob/main/Floyd%20Warshall%20-%20O(E%5E3)) - O(E<sup>3</sup>)
+  - [Kruskal Minimum Spanning Tree](https://github.com/minionly/Codes/blob/main/Kruskal%20Minimum%20Spanning%20Tree%20-%20%20O(E%20log%20V)) - (Elog(V))
 - Dijoint Sets Union 🔃
   - [A - Disjoint Sets Union](https://github.com/minionly/Codes/blob/main/A%20-%20Disjoint%20Sets%20Union)
   - [B - Disjoint Sets Union 2](https://github.com/minionly/Codes/blob/main/B%20-%20Disjoint%20Sets%20Union%202)
