@@ -33,7 +33,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Bellman Ford Single Source Shortest Path](https://github.com/minionly/Codes/blob/main/Bellman%20Ford%20-%20O(V*E)) - O(EV)
   - [Floyd Warshall All Pair Shortest Path](https://github.com/minionly/Codes/blob/main/Floyd%20Warshall%20-%20O(E%5E3)) - O(E<sup>3</sup>)
   - [Kruskal Minimum Spanning Tree](https://github.com/minionly/Codes/blob/main/Kruskal%20Minimum%20Spanning%20Tree%20-%20%20O(E%20log%20V)) - O(Elog(V))
-  - [Acyclicity in Undirected Graph](https://github.com/minionly/Codes/blob/main/Acyclicity%20in%20Unirected%20Graph%20-%20O(E)) - O(E)
+  - [Acyclicity in Undirected Graph](https://github.com/minionly/Codes/blob/main/Acyclicity%20in%20Undirected%20Graph%20-%20O(E)) - O(E)
   - [Acyclicity in Directed Graph](https://github.com/minionly/Codes/blob/main/Acyclicity%20in%20Directed%20Graph%20-%20O(E)) - O(E)
 - Dijoint Sets Union 🔃
   - [A - Disjoint Sets Union](https://github.com/minionly/Codes/blob/main/A%20-%20Disjoint%20Sets%20Union)
