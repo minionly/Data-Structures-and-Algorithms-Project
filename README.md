@@ -28,7 +28,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Basic Segment Tree Source Code With Explaination](https://github.com/minionly/Segment-Tree/blob/main/Segment%20Tree%20-%20Basics)
 - Graph Theory 📈
   - [Dijkstra Lazy Implementation](https://github.com/minionly/Codes/blob/main/Dijkstra%20Lazy%20Implementation) - O(Elog(V))
-  - [Longestt Path In A Directed Graph](https://github.com/minionly/Codes/blob/main/Longest%20Path%20In%20Directed%20Graph) - O(Elog(V))
+  - [Longest Path In A Directed Graph](https://github.com/minionly/Codes/blob/main/Longest%20Path%20In%20Directed%20Graph) - O(Elog(V))
   - [Tarjan Strongly Connected Components](https://github.com/minionly/Codes/blob/main/Tarjan%20Strongly%20Connected%20Components) - O(E+V)
   - [Check If a Given Graph Is Cyclic](https://github.com/minionly/Codes/blob/main/Check%20if%20Graph%20is%20Cyclic) - O(E)
   - [Bellman Ford Single Source Shortest Path](https://github.com/minionly/Codes/blob/main/Bellman%20Ford%20-%20O(V*E)) - O(EV)
