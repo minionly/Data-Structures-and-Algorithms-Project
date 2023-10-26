@@ -36,6 +36,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Kruskal Minimum Spanning Tree](https://github.com/minionly/Codes/blob/main/Kruskal%20Minimum%20Spanning%20Tree%20-%20%20O(E%20log%20V)) - O(Elog(V))
   - [Acyclicity in Undirected Graph](https://github.com/minionly/Codes/blob/main/Acyclicity%20in%20Undirected%20Graph%20-%20O(E)) - O(E)
   - [Acyclicity in Directed Graph](https://github.com/minionly/Codes/blob/main/Acyclicity%20in%20Directed%20Graph%20-%20O(E)) - O(E)
+  - [Topological Sort](https://github.com/minionly/Codes/blob/main/Topological%20Sort%20-%20O(V%2BE)) O(V+E)
 - Dijoint Sets Union 🔃
   - [A - Disjoint Sets Union](https://github.com/minionly/Codes/blob/main/A%20-%20Disjoint%20Sets%20Union)
   - [B - Disjoint Sets Union 2](https://github.com/minionly/Codes/blob/main/B%20-%20Disjoint%20Sets%20Union%202)
