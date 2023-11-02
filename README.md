@@ -31,6 +31,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Longest Path In A Directed Graph](https://github.com/minionly/Codes/blob/main/Longest%20Path%20In%20Directed%20Graph) - O(Elog(V))
   - [Tarjan Strongly Connected Components](https://github.com/minionly/Codes/blob/main/Tarjan%20Strongly%20Connected%20Components) - O(E+V)
   - [Check If a Given Graph Is Cyclic](https://github.com/minionly/Codes/blob/main/Check%20if%20Graph%20is%20Cyclic) - O(E)
+  - [Eulerian Cycle - Hierholzer's Algorithm](https://github.com/minionly/Codes/blob/main/Eulerian%20Cycle%20-%20Hierholzer's%20Algorithm%20-%20O(E)) - O(E)
   - [Bellman Ford Single Source Shortest Path](https://github.com/minionly/Codes/blob/main/Bellman%20Ford%20-%20O(V*E)) - O(EV)
   - [Floyd Warshall All Pair Shortest Path](https://github.com/minionly/Codes/blob/main/Floyd%20Warshall%20-%20O(E%5E3)) - O(E<sup>3</sup>)
   - [Kruskal Minimum Spanning Tree](https://github.com/minionly/Codes/blob/main/Kruskal%20Minimum%20Spanning%20Tree%20-%20%20O(E%20log%20V)) - O(Elog(V))
