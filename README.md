@@ -28,6 +28,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Basic Segment Tree Source Code With Explaination](https://github.com/minionly/Segment-Tree/blob/main/Segment%20Tree%20-%20Basics)
 - Graph Theory 📈
   - [Topological Sort](https://github.com/minionly/Codes/blob/main/Topological%20Sort%20-%20O(V%2BE)) - O(V+E)
+  - [Eulerian Tour in DAG](https://github.com/minionly/Codes/blob/main/Eluerian%20Tour%20in%20DAG%20-%20O(E)) - O(E)
   - [Acyclicity in Directed Graph](https://github.com/minionly/Codes/blob/main/Acyclicity%20in%20Directed%20Graph%20-%20O(E)) - O(E)
   - [Acyclicity in Undirected Graph](https://github.com/minionly/Codes/blob/main/Acyclicity%20in%20Undirected%20Graph%20-%20O(E)) - O(E)
   - [Dijkstra Lazy Implementation](https://github.com/minionly/Codes/blob/main/Dijkstra%20Lazy%20Implementation) - O(Elog(V))
