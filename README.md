@@ -41,8 +41,8 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Number of Distinct Path Between 2 Nodes in DAG](https://github.com/minionly/Codes/blob/main/Distinct%20Path%20Between%202%20Nodes%20in%20DAG%20-%20O(V+E)) - O(V+E)
   - [Eulerian Cycle in Directed Graph - Hierholzer's Algorithm](https://github.com/minionly/Codes/blob/main/Eulerian%20Cycle%20-%20Hierholzer's%20Algorithm%20-%20O(E)) - O(E)
 - Network Flows 🚰
-  - [Edmonds-Karp Max FLow Algorithm](https://github.com/minionly/Codes/blob/main/Edmonds-Karp%20Max%20FLow%20Algorithm%20-%20O(V*E%5E2)) - O(VE<sup>2</sup>)
   - [Capacity Scalling](https://github.com/minionly/Codes/blob/main/Capacity%20Scalling%20-%20O(E%5E2log(C))) - O(E<sup>2</sup>log(C))
+  - [Edmonds-Karp Max FLow Algorithm](https://github.com/minionly/Codes/blob/main/Edmonds-Karp%20Max%20FLow%20Algorithm%20-%20O(V*E%5E2)) - O(VE<sup>2</sup>)
 - Dijoint Sets Union 🔃
   - [A - Disjoint Sets Union](https://github.com/minionly/Codes/blob/main/A%20-%20Disjoint%20Sets%20Union)
   - [B - Disjoint Sets Union 2](https://github.com/minionly/Codes/blob/main/B%20-%20Disjoint%20Sets%20Union%202)
