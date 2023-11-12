@@ -30,6 +30,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [2-SAT](https://github.com/minionly/Codes/blob/main/2-SAT) - NP complete
   - [Topological Sort](https://github.com/minionly/Codes/blob/main/Topological%20Sort%20-%20O(V%2BE)) - O(V+E)
   - [Eulerian Tour in DAG](https://github.com/minionly/Codes/blob/main/Eluerian%20Tour%20in%20DAG%20-%20O(E)) - O(E)
+  - [Travelling Salesman Problem](https://github.com/minionly/Codes/blob/main/Travelling%20Salesman%20Problem) - O(2<sup>V</sup>V<sup>2</sup>)
   - [Acyclicity in Directed Graph](https://github.com/minionly/Codes/blob/main/Acyclicity%20in%20Directed%20Graph%20-%20O(E)) - O(E)
   - [Acyclicity in Undirected Graph](https://github.com/minionly/Codes/blob/main/Acyclicity%20in%20Undirected%20Graph%20-%20O(E)) - O(E)
   - [Dijkstra Lazy Implementation](https://github.com/minionly/Codes/blob/main/Dijkstra%20Lazy%20Implementation) - O(Elog(V))
