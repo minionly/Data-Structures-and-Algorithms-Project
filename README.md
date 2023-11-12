@@ -43,6 +43,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Eulerian Cycle in Directed Graph - Hierholzer's Algorithm](https://github.com/minionly/Codes/blob/main/Eulerian%20Cycle%20-%20Hierholzer's%20Algorithm%20-%20O(E)) - O(E)
 - Network Flows 🚰
   - [Capacity Scalling](https://github.com/minionly/Codes/blob/main/Capacity%20Scalling%20-%20O(E%5E2log(C))) - O(E<sup>2</sup>log(C))
+  - [Minimum Cut in DAG](https://github.com/minionly/Codes/blob/main/Minimum%20Cut%20in%20DAG) - O(E<sup>2</sup>log(C))
   - [Edmonds-Karp Max FLow Algorithm](https://github.com/minionly/Codes/blob/main/Edmonds-Karp%20Max%20FLow%20Algorithm%20-%20O(V*E%5E2)) - O(VE<sup>2</sup>)
 - Dijoint Sets Union 🔃
   - [A - Disjoint Sets Union](https://github.com/minionly/Codes/blob/main/A%20-%20Disjoint%20Sets%20Union)
