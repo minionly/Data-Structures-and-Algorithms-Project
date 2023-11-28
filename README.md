@@ -25,6 +25,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [E - Addition to Segment](https://github.com/minionly/Segment-Tree/blob/main/E%20-%20Addition%20to%20Segment)
   - [F - Assignment and Sum](https://github.com/minionly/Segment-Tree/blob/main/F%20-%20Assignment%20and%20Sum)
   - [Range MEX Query](https://github.com/minionly/Segment-Tree/blob/main/Range%20MEX%20Query)
+  - [Range Updates (Add-Assign) and Sums](https://github.com/minionly/Codes/blob/main/Range%20Updates%20(Add-Assign)%20and%20Sums)
   - [Basic Segment Tree Source Code With Explaination](https://github.com/minionly/Segment-Tree/blob/main/Segment%20Tree%20-%20Basics)
 - Graph Theory 📈
   - [2-SAT](https://github.com/minionly/Codes/blob/main/2-SAT) - NP complete
