@@ -43,6 +43,10 @@ Algorithms and data structures are fundamental to efficient code and good softwa
   - [Bellman Ford Single Source Shortest Path](https://github.com/minionly/Codes/blob/main/Bellman%20Ford%20-%20O(V*E)) - O(EV)
   - [Number of Distinct Path Between 2 Nodes in DAG](https://github.com/minionly/Codes/blob/main/Distinct%20Path%20Between%202%20Nodes%20in%20DAG%20-%20O(V+E)) - O(V+E)
   - [Eulerian Cycle in Directed Graph - Hierholzer's Algorithm](https://github.com/minionly/Codes/blob/main/Eulerian%20Cycle%20-%20Hierholzer's%20Algorithm%20-%20O(E)) - O(E)
+- Trees 🌳
+  - [Subordinates](https://github.com/minionly/Codes/blob/main/Subodinates%20-%20O(N)) - O(N)
+  - [Diamater of a Tree](https://github.com/minionly/Codes/blob/main/Diameter%20of%20a%20Tree%20-%20O(N)) - O(N)
+  - [Maximum Matching in a Tree - DP on Trees](https://github.com/minionly/Codes/blob/main/Maximum%20Matchings%20in%20a%20Tree%20-%20DP%20on%20Trees)
 - Network Flows 🚰
   - [Capacity Scalling](https://github.com/minionly/Codes/blob/main/Capacity%20Scalling%20-%20O(E%5E2log(C))) - O(E<sup>2</sup>log(C))
   - [Minimum Cut in DAG](https://github.com/minionly/Codes/blob/main/Minimum%20Cut%20in%20DAG) - O(E<sup>2</sup>log(C))
